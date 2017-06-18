@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="questionOne"> 1. ________ controls the way in which the computer system functions and provides a means by which users can interact with the computer.</string>
+    <string name="answerOne">The operating system</string>
+    <string name="answerTwo">The motherboard</string>
+    <string name="answerThree">The platform</string>
+    <string name="questionTwo"> 2. Servers are computers that provide resources to other computers connected to a network or client </string>
+    <string name="questionThree"> 3. The difference between people with access to computers and the Internet and those without this access is known as the</string>
+    <string name="Q3A1">Digital Divide</string>
+    <string name="Q3A2">Internet Divide</string>
+    <string name="Q3A3">Web Divide</string>
+    <string name="questionFour"> 4. Word processing, spreadsheet, and photo-editing are examples of:  </string>
+    <string name="Q4A1">Application Software</string>
+    <string name="Q4A2">System Software</string>
+    <string name="Q4A3">Operating System Software</string>
+    <string name="questionFive">5) A ________ is approximately one billion bytes</string>
+    <string name="Q5A1">Bit</string>
+    <string name="Q5A2">Kilobyte</string>
+    <string name="Q5A3">Gigabyte</string>
+       
+
+</resources>
